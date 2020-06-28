@@ -1,0 +1,1179 @@
+idx,sentence,emotion
+1,"oh my god , he ' s lost it . he ' s totally lost it .",non-neutral
+2,what ?,surprise
+3,"or ! or , we could go to the bank , close our accounts and cut them off at the source .",neutral
+4,you ' re a genius !,joy
+5,"aww , man , now we won ' t be bank buddies !",sadness
+6,"now , there ' s two reasons .",neutral
+7,hey .,neutral
+8,hey !,joy
+9,"ohh , you guys , remember that cute client i told you about ? i bit him .",neutral
+10,where !,surprise
+11,on the touchy .,neutral
+12,and,neutral
+13,"no , i know !",surprise
+14,"i - i ' m sorry , but the moment i touch him , i just wanna throw out my old oath and take a new , dirty one .",non-neutral
+15,"well , next time your massaging him , you should try and distract yourself .",neutral
+16,yeah ! yeah ! yeah ! like - like when i ' m doing something exciting and i don ' t wanna get,joy
+17,"thank you , joey .",neutral
+18,"no - no , thank you .",neutral
+19,"hey estelle , listen",neutral
+20,well ! well ! well ! joey tribbiani ! so you came back huh ? they,surprise
+21,what are you talkin ' about ? i never left you ! you ' ve always been my agent !,surprise
+22,really !,surprise
+23,yeah !,joy
+24,"oh well , no harm , no foul .",neutral
+25,"okay , you guys free tonight ?",neutral
+26,yeah !,joy
+27,tonight ? you - you didn ' t say it was going to be at nighttime .,surprise
+28,yes ? yes ! how can i help you ?,neutral
+29,"yeah , we werewe were just looking around .",neutral
+30,"oh - oh , you ' re - you ' re fellow scholars .",surprise
+31,"what exactly were you looking for , hmm ?",neutral
+32,"perhaps , perhaps dr . chester stock ' s musings on the smiledon californicus ?",neutral
+33,uhh .,neutral
+34,"ah ahget out of here ! uh , meeting someone ? or - or are you just here to brush up on marion ' s views on evolution ?",non-neutral
+35,"uh , actually i find marion ' s views far too progressionist .",neutral
+36,i find marion ' s views far too progressionist .,neutral
+37,"i ' m sorry , who are you ?",surprise
+38,"i ' m a professor here uh , rossgeller .",neutral
+39,"ross geller , why do i know that name ? it ' s uhwait ! did you write this ?",surprise
+40,yes ! you ' re the person who checked out my book !,surprise
+41,"y ' know , you look nothing like i would ' ve thought . you ' reyou ' re so young .",surprise
+42,"well i uh , i skipped forth grade .",neutral
+43,you had no right to tell me you ever had feelings for me .,anger
+44,what ?,surprise
+45,i was doing great with julie before i found out about you .,anger
+46,"hey , i was doin ' great before i found out about you . you think it ' s easy for me to see you with julie ?",anger
+47,the point is i .,non-neutral
+48,"i don ' t need this right now , ok .",anger
+49,"it , it ' s too late , i ' m with somebody else , i ' m happy .",non-neutral
+50,this ship has sailed .,non-neutral
+51,"alright , fine , you go ahead and you do that , alright ross .",non-neutral
+52,fine .,anger
+53, cause i don ' t need your stupid ship .,anger
+54,good .,anger
+55,good .,anger
+56,"oh , it ' s so romantic to send people off on their honeymoon .",joy
+57,"y ' know , monica and chandler are married . ross and rachel are having a baby . maybe you and i should do something .",neutral
+58,all in good time my love .,neutral
+59,all in good time .,neutral
+60,oh shoot !,surprise
+61,i left my guitar in their apartment .,non-neutral
+62,well you can let me in later .,neutral
+63,"i don ' t have a key , they took mine to give to you .",neutral
+64,what ! they took mine to give to you !,surprise
+65,why would they take away our keys ?,surprise
+66,wow ! it looks like we got a lot of good stuff .,joy
+67,"oh we did , but my mom got us the greatest gift of all .",joy
+68,a,neutral
+69,no . she ' s going to live with us for eight weeks .,neutral
+70,"uh , what ?",surprise
+71,yes ! she ' s gonna help us take care of the baby ! woo - hoo .,joy
+72,whatyou ' re not serious .,non-neutral
+73,"i mean she ' s a very nice woman , but there is no way we can take eight weeks of her .",non-neutral
+74,she ' ll drive us totally crazy .,disgust
+75,hi ross !,joy
+76,hi roomie !,joy
+77,hey ! what did you decide to do about the movie ?,neutral
+78,i don ' t know !,neutral
+79,it ' s not like it ' s porn !,neutral
+80,"this is a serious , legitimate movie .",neutral
+81,y ' know ?,neutral
+82,and the nudity is really important to the story .,neutral
+83,that ' s what you say about porn .,neutral
+84,you ' re right . maybe i shouldn ' t even go on the call back .,neutral
+85,"no ! no you should ! a lot of major actors do nude scenes ! i mean , the chance to star in a movie ? come on !",non-neutral
+86,well that ' s true .,neutral
+87,and i am only naked in one scene .,neutral
+88,plus it sounds really great .,neutral
+89,my character ' s catholic and he falls in love with this jewish girl .,neutral
+90,who run away together and they get caught in this big rainstorm .,neutral
+91,so we go into this barn and undress each other and hold each other .,neutral
+92,it ' s really sweet and - and tender .,joy
+93,"hey , what ' s up ?",neutral
+94,"nothing , monica and i had a stupid fight .",sadness
+95,"but you ' re still moving in together , right ? because my ad came out today .",neutral
+96," wanted . female roommate , non - smoker , non - ugly .  nice !",joy
+97,yeah ?,neutral
+98,"i just figured y ' know , after living with you it ' d be an interesting change of pace to have a female roommate , y ' know ?",neutral
+99,"someone i can learn from , someone - someone who ' s different than me .",neutral
+100,and what ' s more different than me ; a guy who ' s,neutral
+101,so where are we going next ?,neutral
+102,this witness won ' t return my calls so we ' re gonna see if we can surprise him coming home .,neutral
+103,"sur - surprise him ? we ' re not , we ' re not gonna make anybody mad are we ?",fear
+104,"come on man ! listen so uh , are you gonna squeeze the perps shoes a little bit before he lawyers up ?",non-neutral
+105,it ' s a witness not a perp . and no one talks like that !,non-neutral
+106,"yeah , no one talks like that !",non-neutral
+107,oh what ? like your mr . cop !,anger
+108,"hey , i ' m more cop than you two !",anger
+109,how do you figure that ?,non-neutral
+110,"hello ! i ' m in the front seat , okay ? i ' m gary ' s partner !",neutral
+111,i guess so .,neutral
+112,here you go . thank you !,neutral
+113,"wait , rach ! where ' s the other one ?",neutral
+114,"oh what , you - you want both of them ?",surprise
+115,"rachel karen green , where ' s the other earring !",anger
+116,"okay , okay , okay , look , just don ' t freak out , but i kinda lost it .",fear
+117,"i know it ' s in the apartment , but i",neutral
+118,"well , what am i going to tell monica ? she wants to wear them tonight !",fear
+119,tell her to wear her own earrings .,non-neutral
+120,these,neutral
+121,no ! no ! you lent me monica ' s earrings ! i ' m not allowed to borrow her stuff !,anger
+122,why not ?,neutral
+123,because i lose her stuff !,non-neutral
+124,"well , you ' re - you ' re sweating .",neutral
+125,these - these are beads of joy .,joy
+126,oh that ' s sweet . don ' t touch me .,disgust
+127,"uh phoebe , can i see you for a second ?",neutral
+128,yeah !,neutral
+129,what ' s going on ?,neutral
+130,chandler ' s gone again !,surprise
+131,oh my god ! why would you play hide and seek with someone you know is a flight risk !,non-neutral
+132,okay . you ready to push again ?,neutral
+133,i already had a baby . leave me alone .,anger
+134,"okay , okay , come on , you can do it . you can do it !",joy
+135,yeah !,joy
+136,little leslie is here !,joy
+137,we got another one !,surprise
+138,"oh my god , i can ' t believe i have two - two children .",surprise
+139,how scary is that ?,surprise
+140,"come on little chandler , it ' s time to be born . come on little chandler ! come on !",joy
+141,"all right , he ' s coming . he ' s coming !",joy
+142,"hey , where ' s his thing ?",surprise
+143,chandler ' s a girl !,surprise
+144,"oh god , kindergarten flashback .",surprise
+145,they musta read the sonogram wrong .,surprise
+146," cause they , ' cause they thought it was a boy , but chandler ' s a girl !",surprise
+147,chandler ' s a girl !,surprise
+148,"okay , keep saying it !",joy
+149,am i too late !,neutral
+150,"no - no ah , everything ' s okay . everybody ' s healthy there ' s 30 fingers and 30 toes .",joy
+151,we have our babies ?,surprise
+152,yeah .,joy
+153,"oh , we have our babies .",joy
+154,hey toby !,joy
+155,hey bobby .,neutral
+156,"it ' s bob actually . hey , you work up here , can you tell me where this chandler",neutral
+157,"uhh yeah . yeah , it ' s right , right down there . right there , yeah . can i ask you why ?",neutral
+158,"i want to talk to that bastard , see what his problem is .",anger
+159,"okay bob listen uhh , i ' m the reason you didn ' t get the job up here .",non-neutral
+160,toby don ' t .,non-neutral
+161,bob !,non-neutral
+162,toby ! i ' m not gonna let you cover for him . anything you say right now will just get me more upset with chandler !,anger
+163,ohh !,surprise
+164,thank you . oh joey and look at this crib ! it ' s so cute !,joy
+165,i know ! i found it on the street .,joy
+166,are you seriousreally ! it ' s in such good condition .,surprise
+167,yeah .,neutral
+168,wow ! whoa - whoa what ' s under the covers ?,surprise
+169,i don ' t know .,neutral
+170,it ' s moving .,non-neutral
+171,ew .,disgust
+172,it ' s stillit ' s got a tail ! get it out of here ! get it out of here !,fear
+173,ooh ! ah ! okay !,fear
+174,"well , i went over to kyle ' s last night to pick up a few things and we got to reminiscing",neutral
+175,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there . so,non-neutral
+176,oh just say it kyle !,surprise
+177,we ' re gonna give it another try .,joy
+178,what about her whining and her constant need for attention !,non-neutral
+179,i ' m gonna work on that .,neutral
+180,"oh right , because you ' re so capable of change .",non-neutral
+181,"y ' know , he hums when he pees !",non-neutral
+182,i do know .,neutral
+183,"it makes him miss the bowl , but whatever .",disgust
+184,we ' re so sorry .,sadness
+185,"that ' s all right , we - we don ' t need you . in fact , hey i ' m over it already .",non-neutral
+186,"yeah , and y ' know what ? i don ' t give a tiny rat ' s ass .",anger
+187,"yeah , we ' re gonna go .",neutral
+188,"i ' m sorry . ugh , pheebs , you were , you were right about her . y ' know , she",sadness
+189,"oh . y ' know , he hums while he does other stuff to .",neutral
+190,"yeah , we ' re better off without them .",non-neutral
+191,"and y ' know , even if they break up again , you ' d better not let him in your sad men ' s club !",anger
+192,divorced men ' s club .,sadness
+193,"potato , potaato .",neutral
+194,why isn ' t that valet back with my porsche ?,anger
+195,maybe because you ' ve got the keys ?,non-neutral
+196,porsche .,neutral
+197,this is totally your fault !,anger
+198,my fault ! you threatened the judge !,anger
+199,"well , you ripped the paper out of the court reporter ' s machine !",anger
+200,"can we , can we just forget this ever happened ?",non-neutral
+201,"yes of course , absolutely ! you ' re right . i ' m sorry .",sadness
+202,thank you .,neutral
+203,yes .,neutral
+204,"all right i guess i ' m , gonna go pack .",neutral
+205,"okay . oh wait ! one more thing umm , do - do we still need to uh settle the question of "" us ? """,fear
+206,phoebe !,neutral
+207,yeah ?,neutral
+208,have you seen chandler !,neutral
+209,no ! why ?,neutral
+210,the woman from the museum called and said that there was a cancellation and that we could move up our wedding and chandler heard !,fear
+211,i know !,fear
+212,how bad is this ?,fear
+213,!,neutral
+214,"well for the regular guy , it ' s bad , but chandler , oh dear god !",fear
+215,i know ! i know ! and he totally freaked out and i can ' t find him anywhere !,fear
+216,what are you gonna do ?,neutral
+217,"well , i ' m never gonna listen to you again , that ' s for sure !",anger
+218," y ' know , harm can it do if you go and put your name down ? ",neutral
+219,rachel said that !,surprise
+220,well rachel ' s not here !,anger
+221,"come on , come on .",neutral
+222,"damnit , damnit , damnit , damnit .",anger
+223,this is all your fault .,anger
+224,"this is supposed to be , like , the greatest day of my life , y ' know ?",non-neutral
+225,"my son is being born , and i should be in there , you know , instead of stuck in a closet with you .",anger
+226,the woman i love is having a baby today . i ' ve been waiting for this just as much as you have .,non-neutral
+227,"no no no , believe me .",non-neutral
+228,"no one has been waiting for this as much as i have , ok ?",anger
+229,and you know what the funny thing is ?,neutral
+230,"when this day is over , you get to go home with the baby , ok ?",non-neutral
+231,where does that leave me ?,sadness
+232,you get to be the baby ' s father .,neutral
+233,everyone knows who you are .,neutral
+234,who am i ?,non-neutral
+235,"there ' s mother ' s day , there ' s father ' s day , there ' s no . lesbian lover day .",sadness
+236,every day is lesbian lover day .,neutral
+237,this is so great .,joy
+238,you wanna explain that ?,neutral
+239,"i mean , well , ' cause when i was growing up , you know my dad left , and my mother died , and my stepfather went to jail , so i barely had enough pieces of parents to make one whole one .",sadness
+240,and here ' s this little baby who has like three whole parents who care about it so much that they ' re fighting over who gets to love it the most .,joy
+241,and it ' s not even born yet .,non-neutral
+242,"it ' s just , it ' s just the luckiest baby in the whole world .",joy
+243,"i ' m sorry , you were fighting .",sadness
+244,"okay , it ' s a typical new york city apartment . two girls are just hanging out .",neutral
+245,"hi , how are you doing kelly ?",neutral
+246,"i ' m doing just fine ! god , tiffany , you smell so great !",joy
+247,it ' s my new perfume . why don ' t you come closer where you can,neutral
+248,"oh , y ' know joey , you are sick !",disgust
+249,this is disgusting !,disgust
+250,i ' m not reading this !,disgust
+251,what ! wait - wait - wait ! the handsome man was about to enter !,surprise
+252,"all right , i ' ll give you this , mr . peanut is a better dresser .",neutral
+253,"i mean he ' s got the monocle , he ' s got the top hat .",neutral
+254,you know he ' s gay ?,neutral
+255,i just wanna clarify this : are you outing mr . peanut ?,neutral
+256,"danielle ! hi ! uh - everybody , this is danielle , danielle , everybody .",neutral
+257,hi . hi .,neutral
+258,what are you doing here ?,surprise
+259,"well , what ?",neutral
+260,what ?,neutral
+261,what is it ?,neutral
+262,that she left you ?,surprise
+263,that she likes women ?,neutral
+264,that she left you for another woman that likes women ?,neutral
+265,"little louder , okay , i think there ' s a man on the twelfth floor in a coma that didn ' t quite hear you .",anger
+266,then what ?,neutral
+267,my first time with carol was .,neutral
+268,what ?,neutral
+269,it was my,neutral
+270,with carol ? oh .,surprise
+271,"so in your whole life , you ' ve only been with oneoh .",surprise
+272,"whoah , boy , hockey was a big mistake ! there was a whole bunch of stuff we could ' ve done tonight !",non-neutral
+273,hi . where is everybody ?,neutral
+274,"oh , it ' s already closed , chris gave me the keys to lock up - what is wrong ?",non-neutral
+275,"my marriage , i think my marriage is um , is kinda over .",sadness
+276,oh no ! why ?,surprise
+277,"cause carol ' s a lesbian . and , and i ' m not one . and apparently it ' s not a mix and match situation .",sadness
+278,"oh my god ! i don ' t believe it ! oh , you poor bunny .",surprise
+279,i ' m an idiot .,disgust
+280,"i mean shoulda seen it , i mean carol and i ' d be out and she ' d , she ' d see some beautiful woman , and , and she ' d be ross y ' know look at her , and i ' d think , god , my wife is cool !",non-neutral
+281,"aw ! hey , do you think that susan person is her lover ?",neutral
+282,"well , now i do !",surprise
+283,i ' m sorry .,sadness
+284,seven years .,sadness
+285,"i mean we ' ve been together seven years , she ' s the only woman who ' s ever loved me , and the only woman i ' ve - i ' ve ever .",sadness
+286,"aw , god ross . oh .",sadness
+287,i ' ll do it .,neutral
+288,no you won ' t .,neutral
+289,"look he knows he did a terrible thing and i believe him , he ' s sorry .",sadness
+290,"but , you ' ve got one more apology to make , all right , you ' ve got to apologize to mary - angela .",non-neutral
+291,"okay , absolutely !",joy
+292,all right .,neutral
+293,you ' ve got it .,neutral
+294,"cookie , now you can punch him !",anger
+295,what !,surprise
+296,"all right , that ' s it , i quit .",anger
+297,what ? i didn ' t say anything .,surprise
+298,"yeah , but this isn ' t the face of a person who trusts a person .",non-neutral
+299,"ok , this is the face of a person who , you know , doesn ' t trust a person .",non-neutral
+300,"i ' m sorry . i ' m sorry , phoebe . it ' s just a little shorter than what we had discussed .",non-neutral
+301,would you relax ? i know what i am doing . this is how he wears it .,anger
+302,julie .,neutral
+303,what !,non-neutral
+304,jody !,surprise
+305,you were with julie ?,neutral
+306,"look , when it started i was just trying to be nice to her because she was my brother ' s girlfriend .",neutral
+307,"and then , one thing led to another and , before i knew it , we were . shopping .",neutral
+308,oh . oh my god .,surprise
+309,"honey , wait . we only did it once . it didn ' t mean anything to me .",non-neutral
+310,"yeah , right . sure !",anger
+311,"really , rachel , i was thinking of you the whole time .",non-neutral
+312,"look , i ' m sorry , all right .",sadness
+313,i never meant for you to find out !,sadness
+314,"oh , please , you wanted to get caught .",anger
+315,that is not true !,anger
+316,"oh , so you just sort of happened to leave it in here ?",anger
+317,did it ever occur to you that i might just be that stupid ?,non-neutral
+318,"ok , monica . i just have to know one thing . did you go with her to",sadness
+319,hey !,joy
+320,yeah !,non-neutral
+321,i can ' t say .,neutral
+322,why !,surprise
+323,why not ?,non-neutral
+324,i can ' t say because he ' s famous .,neutral
+325,"oh my god , who is it !",surprise
+326,"phoebe , come on , you have to tell us .",non-neutral
+327,"okay , okay . it ' s james brolin . james brolin is the father of my baby .",non-neutral
+328,as in barbara streisand ' s husband james brolin ?,surprise
+329,what ! well he never said that to me !,surprise
+330,in,neutral
+331,"oh , this life ! oh okay no , chandler ' s is worse .",sadness
+332,"man , it must be so cool remembering stuff like that ! i don ' t have any past life memories .",non-neutral
+333,of course you don ' t sweetie . you ' re brand new .,neutral
+334,i know monica ' s worst thanksgiving .,neutral
+335,"oh , let ' s not tell this story .",non-neutral
+336,"oh , come on !",non-neutral
+337,"oh no , i know ! i know ! it ' s the one where joey got monica ' s turkey stuck on his head !",non-neutral
+338,what ! joey got a turkey stuck on his head !,surprise
+339,"hey , it ' s not like it sounds .",neutral
+340,it ' s,neutral
+341,"wendy , we had a deal ! yeah , you promised ! wendy ! wendy ! wendy !",anger
+342,who was that ?,neutral
+343,wendy bailed . i have no waitress .,non-neutral
+344,oh . that ' s too bad . bye bye .,non-neutral
+345,ten dollars an hour .,neutral
+346,no .,neutral
+347,twelve dollars an hour .,neutral
+348,"mon . i wish i could , but i ' ve made plans to walk around .",neutral
+349,"you know , rachel , when you ran out of your wedding , i was there for you .",non-neutral
+350,"i put a roof over your head , and if that means nothing to you . twenty dollars an hour .",non-neutral
+351,done .,joy
+352,"the reactor ' s gonna blow in three seconds , we ' re never gonna make it !",fear
+353,you ' ve got to get out of here ! save yourself !,fear
+354,no ! i won ' t leave you !,fear
+355,"don ' t worry about me , i ' m a robot ! i ' m just a machine !",non-neutral
+356,no you ' re not ! not to me !,non-neutral
+357,oh my god .,non-neutral
+358,what ?,neutral
+359,i am,neutral
+360,"yeah , you ' re great ! okay , let ' s take it from",joy
+361,"no , i mean i was really acting my ass off .",non-neutral
+362,"yeah , i thought i was pretty good too .",joy
+363,"oh yeah , you ' re solid . yeah , you ' re just no me .",neutral
+364,y ' know what ? i think that ' s enough for now . yeah . i don ' t want to be over rehearsed .,neutral
+365,fine !,anger
+366,i ' ll do it without you !,anger
+367,i don ' t need you or anybody else !,anger
+368,i ' m gonna make it on my own !,anger
+369,you ' ll see !,anger
+370,you ' ll,neutral
+371,i can ' t believe that ross is gone . it is just so sad .,sadness
+372,i didn ' t know ross and you were so close .,surprise
+373,we weren ' t but we had one class together . he was such a great guy and he talked so passionately about science . i always remembered him .,sadness
+374,i ' m sure that would mean a lot to him .,neutral
+375,"and if heaven has a door , i ' m sure he ' s pressing his ear up against it and listening intently .",neutral
+376,i thought so many times about calling him and asking him out . i guess i really missed my chance .,sadness
+377,but you didn ' t !,joy
+378,i ' m still alive !,joy
+379,"kori , i know this is a big surprise for you .",joy
+380,it ' s a long story but the things you just said really made my day !,joy
+381,"i mean , the fact that you are here means more to me than if this room were filled with people !",joy
+382,"you sick freak , who does that ? i can ' t believe i had a crush on you !",anger
+383,did you hear that ? kori weston had a crush on me !,non-neutral
+384,we ' ll do a quick check .,neutral
+385,okay .,neutral
+386,"so , eight days late huh ?",surprise
+387,yeah .,neutral
+388,you must be a little uncomfortable .,neutral
+389,"eh , just a tad .",neutral
+390,"you ' re about 80 percent effaced , so you ' re on your way .",neutral
+391,it still could last a little while longer .,neutral
+392,if you ' re anxious there are a few ways to help things along .,neutral
+393,do them !,non-neutral
+394,"actually , they ' re things you can do . just some home remedies , but in my experience i ' ve found that some of them are quite effective .",neutral
+395,"well , we are ready to try anything .",neutral
+396,"okay , there ' s an herbal tea you can drink .",neutral
+397,okay .,neutral
+398,what is wrong with emma ?,non-neutral
+399,"oh she misunderstood , she thought she was moving to tulsa .",neutral
+400,anytime you ' re ready .,neutral
+401,"ok , ok , here we go .",neutral
+402,"ok , where am i talking to , here ?",neutral
+403,"i mean , uh , well , there is one way that seems to offer a certain acoustical advantage , but .",neutral
+404,just aim for the bump .,neutral
+405,"ok , ok , ok , ok , here goes .",neutral
+406,"you know , i , you know , can ' t do this .",fear
+407,"uh , this is too weird .",disgust
+408,i feel stupid .,sadness
+409,"so don ' t do it , it ' s fine . you don ' t have to do it just because susan does it .",neutral
+410,"hello , baby . hello , hello .",joy
+411,hello !,joy
+412,"oh , hi . it ' s mark .",neutral
+413,oh .,neutral
+414,what ? is it my breath ?,fear
+415,ow !,surprise
+416,rach ?,neutral
+417,ow ! ow !,surprise
+418,easy . easy . you have to go to the hospital . okay ?,fear
+419,"okay , i do .",neutral
+420,okay .,neutral
+421,i really do .,non-neutral
+422,"okay , i ' m gonna get your coat and then i ' ll - i ' ll put you in a cab .",neutral
+423,"okay . oh wait , wait - wait , you ' re not gonna come with me ?",non-neutral
+424,of course i am . i just have to make a call .,surprise
+425,okay .,neutral
+426,okay ?,neutral
+427,thank you . oww ! god !,surprise
+428,"what ! i wh - , what ' s wrong ?",non-neutral
+429,"i ' m sorry , i just can ' t go to the hospital lookin ' like this .",disgust
+430,"pete becker is circling the ring now . it looks like , he ' s just trying to feel him out . oh , bruiser is just .",neutral
+431,"run ! run you crazy , rich freak !",fear
+432,"oh , i can ' t watch this .",fear
+433,"check it out , he ' s winning ! pete ' s winning !",surprise
+434,really !,surprise
+435,no - o - o !,fear
+436,"uh - oh , bruiser has becker on the canvas and is going for his favourite area .",fear
+437,oh ! oh !,non-neutral
+438,"wait , if that ' s his favourite area , why is he being so mean to it ?",surprise
+439,"well , this is ironic .",surprise
+440,"of your last two boyfriends , richard didn ' t want to have kids , and from the looks of it , now pete can ' t .",neutral
+441,"dude , you don ' t have to brag ! we got nothing here !",anger
+442,should we tell rachel there ' s an empty private room right next door to hers ?,neutral
+443,"we could , or we can have sex in it .",joy
+444,"well let me think about that , while i remove my pants !",joy
+445,i thought i was a complete idiot .,non-neutral
+446,"hey , i ' m with you . he even asked me if i thought you ' d go out with him .",neutral
+447,"oh ! oh , i think i ' m gonna throw up a little bit . what did you say ?",disgust
+448,i said no .,neutral
+449,what !,surprise
+450,what ? ii just figured since you ' re pregnant you ' re not gonna be seeing people .,surprise
+451,"okay joey , first of all kash ford is not people . second of all , what did he say when you told him i was pregnant ?",anger
+452,i didn ' t tell him . i didn ' t know if you were telling people . this is back when i thought kash was still people .,non-neutral
+453,"good - good , don ' t tell him . don ' t tell him . just have him call me okay ?",non-neutral
+454,"rach look , i really don ' t think that ' s such a great",sadness
+455,"okay , you go do it ! i ' ll come back to that set ! i ' ll meet more actors ! i ' ll meet em all !",joy
+456,"ohh , here you are . i was looking for you before . joshua ' s gone so you and emily are free to go .",neutral
+457,that ' s okay .,neutral
+458,"she ' s still in there enjoying her fake party and uh , it ' s too late to do any of the things i had planned , so",neutral
+459,ah ! ah ! i forgot my jacket !,anger
+460,"oh , wait - wait - wait",neutral
+461,you tell them to wait !,anger
+462,okay . wait ! wait !,neutral
+463,emily .,neutral
+464,oh no - no - no ! oh - no ! no ! no ! emily !,anger
+465,hey . call me when you get there . okay ?,neutral
+466,okay .,neutral
+467,i know . you ' re the guy who wouldn ' t chip in for the handyman .,non-neutral
+468,nevermind !,anger
+469,"no , i - i actually thought it was unfair the way everyone reacted . i mean you had just moved in .",neutral
+470,i,neutral
+471,jen .,neutral
+472,"jen , i know this may sound a little but uh , would you maybe wanna grab a cup of coffee sometime , or",neutral
+473,sure ! that would be nice .,joy
+474,umm ?,neutral
+475,oh ! my number is on there . give me a call .,non-neutral
+476,i will give you a call .,neutral
+477,i ' ll see you later .,neutral
+478,okay !,joy
+479,i forgot my paper .,neutral
+480,"here we go . okay , brace yourselves .",neutral
+481,what ?,neutral
+482,okay .,neutral
+483,ow !,surprise
+484,aren ' t you gonna go ?,neutral
+485,no . thank you .,neutral
+486,"no , rachel never pees in public restrooms .",neutral
+487,"well , they never have any paper in there y ' know . so my rule is no tissue , no tuschy . ' well , if everybody ' s going .",neutral
+488,"no , y ' know what don ' t close it cause the . keys . are in there .",neutral
+489,"oh , no - no - no - no - no - no !",fear
+490,what ' s going on ?,neutral
+491,my lighter ' s in there !,fear
+492,i promise .,neutral
+493,"although , don ' t feel like you can ' t visit .",neutral
+494,"hey , is , is , is chandler here ?",neutral
+495,"no , no he ' s not .",neutral
+496,"you guys , joey just saw janice kissing her ex - husband .",surprise
+497,"what ? so what are you going to do ? i mean how , how are you going to tell chandler ?",surprise
+498,"well , i was thinking about that and i , i think the best way would be , to not .",neutral
+499,"joey , you can ' t keep this to yourself , if you know about this , you have to tell him .",neutral
+500,"it ' ll kill him . i mean it ' ll , it ' ll just kill him .",non-neutral
+501,"well , you could wait til i go to the dentist , maybe",neutral
+502,hi !,joy
+503,hey .,neutral
+504,"hey , what are you doing here ?",neutral
+505,"well , oh just ah , i was just wondering , when you and i split up , did you get the tape that was half the last episode of",neutral
+506,"ah yeah , but now it ' s susan and me in mexico and the hostages coming home .",neutral
+507,where ' s ben ?,neutral
+508,he ' s sleeping .,neutral
+509,"ahh . ooh , is this a ah , is this a bad time ?",surprise
+510,"umm , yeah , actually , susan ' s gonna be home any minute , it ' s kinda an anniversary .",non-neutral
+511,"oh ! i thought you guys got married in uh , january ?",surprise
+512,it ' s not that kind of anniversary .,neutral
+513,ah ! oh .,surprise
+514,so ! anyway .,neutral
+515,where are we gonna find a tiny little hat ?,neutral
+516,"oh , oh , oh , i ' ll get rainy day bear ' !",joy
+517,"because he ' ll know what to do ? oh my god , you ' re a genius !",joy
+518,"oh god , oh god , it ' s sowed on though .",non-neutral
+519,give it . give it .,neutral
+520,okay .,neutral
+521,oh !,surprise
+522,"oh , it ' s just like a bloodbath in here today .",non-neutral
+523,please . this is so your fault .,anger
+524,"how , how is this my fault ?",surprise
+525,"look , carol never threw me out of a room before you came along .",anger
+526,"yeah ? well , there ' s a lot of things carol never did before i came along .",anger
+527,you tryin ' to be clever ? a funny lady ?,anger
+528,you know what your problem is ? you ' re threatened by me .,anger
+529,"oh , i ' m threatened by you ?",anger
+530,yes .,anger
+531,"hey , hey , ok , all right , that ' s it !",anger
+532,get in here .,anger
+533,come on .,neutral
+534,"my god , you guys , i don ' t believe you .",non-neutral
+535,there are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing .,anger
+536,"so just stop all the yelling , just stop it !",anger
+537,"yeah , susan .",neutral
+538,"don ' t make me do this again , i don ' t like my voice like this .",anger
+539,"ok , who wants to hear something ironic ?",neutral
+540,"oh ! here it is ! ooh , joey ! why did you sign it , "" son of a bitch ? """,surprise
+541,i didn ' t do that ! who would ' ve done that !,surprise
+542,son of a bitch !,anger
+543,"okay , maybe ask this guy .",neutral
+544,"oh , did i not mention ? carl is a guy i hired to be my identical twin for a medical research project .",neutral
+545,"y ' know sometimes the good ideas are just right in front of you , aren ' t they ?",non-neutral
+546,"okay , i know it sounds crazy , but i think it might work . y ' know ? the only problem is , carl ' s acting is",neutral
+547,the,neutral
+548,"yeah , he ' s the reason i didn ' t get that big",neutral
+549,"hey , uh can i get a little piece of that cake ?",neutral
+550,pizza ! we like pizza ! get out !,anger
+551,"hey monica , there ' s a customer who wants to complement the chef , should i let him in ?",neutral
+552,"sure , i love this part !",joy
+553,come on in .,neutral
+554,"really ? in the moment , i really wanted to kiss you too . in the moment .",joy
+555,"in the moment , yeah .",neutral
+556,but only in the moment . so do ya wanna kiss again ?,non-neutral
+557,"sure , new year ' s eve is only two weeks away . can you wait ?",neutral
+558,no .,neutral
+559,me neither .,neutral
+560,"3 , 2 ,",neutral
+561,"joey , you don ' t have to count down every time we kiss .",non-neutral
+562,"uh , yeah , okay . except i sorta felt like i needed a couple of seconds to get ready .",non-neutral
+563,wow . wow !,surprise
+564,yeah .,neutral
+565,alright . phoebe ?,neutral
+566,"okay , okay .",neutral
+567,"if i were omnipotent for a day , i would want , um , world peace , no more hunger , good things for the rain - forest . and bigger boobs !",joy
+568,"yeah , see . you took mine . chandler , what about you ?",neutral
+569,"uh , if i were omnipotent for a day , i ' d . make myself omnipotent forever .",neutral
+570,"see , there ' s always one guy . "" if i had a wish , i ' d wish for three more wishes . """,disgust
+571,"hey joey . hi . hey , buddy .",neutral
+572,"hey , joey , what would you do if you were omnipotent ?",neutral
+573,probably kill myself !,non-neutral
+574,. excuse me ?,surprise
+575,"hey , if little joey ' s dead , then i got no reason to live !",sadness
+576,"joey , uh -",surprise
+577,you,neutral
+578,i ' m sorry .,sadness
+579,"joey , onstage !",non-neutral
+580,well can you at least stay to the end of the play ?,sadness
+581,"i mean , i ' ll go to the airport with ya , i - i wanna say good bye .",sadness
+582,where are you vic ?,neutral
+583,flight ' s in an hour . i - i gotta go .,sadness
+584,vic ! vic !,non-neutral
+585,in a minute !,anger
+586,so this is it ? victor ?,sadness
+587,"yeah , i guess it is .",sadness
+588,"listen , i ah , i gotta say good bye , and - and i gotta say it quick cause this is killing me .",sadness
+589,"one thing you gotta know , is that i will never forget you .",sadness
+590,"but , you ' ve got things you have to do now , and so do i .",sadness
+591,"and so i ' m gonna get on this spaceship , and i ' m gonna go to blargon 7 in search of alternative fuels .",sadness
+592,"but when i return , 200 years from now , you ' ll be long gone .",sadness
+593,but i won ' t have aged at all .,neutral
+594,"so you tell your great - great - granddaughter to look me up , because adrienne , baby , i ' m gonna want to meet her .",neutral
+595,"so long , vic !",sadness
+596,i have to say,neutral
+597,no way ! the most romantic song ever is,non-neutral
+598,"see , i - i think that one that elton john wrote for , um , that guy on",neutral
+599,"what song was that , pheebs ?",neutral
+600,hi monica !,joy
+601,hey mon !,joy
+602,hey mon !,joy
+603,"oh my god , has she slept at all ?",surprise
+604,nope .,neutral
+605,"no , it ' s been three nights in a row .",neutral
+606,"yeah , she finally stopped crying yesterday , but then she found one of richard ' s cigar butts out on the terrace , so .",neutral
+607,"oh , okay that explains it .",neutral
+608,"i got a call at two in the morning , but all i could hear was , like , this high squeaky sound , so i thought okay its like a mouse or a opossum .",neutral
+609,but then i realized where would a mouse or a opossum get the money to make the phone call .,non-neutral
+610,"so uh , man , are you gonna go to the play with me tonight ?",neutral
+611,"y ' know what , i don ' t know how comfortable i am going to see how hot the sex is between some guy and your girlfriend .",disgust
+612,"yeah , i know but",neutral
+613,"oh no - no - no , i ' m there .",neutral
+614,hey !,surprise
+615,hey mon ! want some pancakes ?,joy
+616,you made pancakes ?,surprise
+617,yep ! grab a plate .,joy
+618,okay .,neutral
+619,"no - no , stay right there . gettin ' closer .",neutral
+620,"okay , okay , but don ' t worry , because we also have cereals , muffins , waffles ,",neutral
+621,"listen also we ' re uh , we ' re watching the game here saturday night , if people want to come over .",neutral
+622,oh yeah !,joy
+623,"yes , if the foxhole was lined with sandwiches .",neutral
+624,"yeah , hero sandwiches .",neutral
+625,well you all know that i ' m a pacifist so i ' m not interested in war in any way .,neutral
+626,but y ' know what ?,neutral
+627,"when the revolution comes , i will have to destroy you all .",neutral
+628,not you joey .,neutral
+629,oh my good god .,surprise
+630,"hey ! continuing the countdown of your favorite meals . tonight , no . 3 , macaroni and cheese with cut up hot dogs .",neutral
+631,"look , you have done enough ! okay ? you have to stop this now .",anger
+632,"i will ! but not tonight . for dinner music , i thought we could listen to that tape you made me .",joy
+633,"oh , the mixed tape .",neutral
+634,the way you look tonight,joy
+635,you are just the sweetest .,joy
+636,no ! you ' re the sweetest !,joy
+637,hey !,joy
+638,hey !,joy
+639,"hey , guess what i ' m doing tonight .",neutral
+640,what ?,neutral
+641,i ' m checking out the restaurant with pete .,neutral
+642,"ohh , monica , i am so excited for you .",joy
+643,wait - wait - wait ! wait !,non-neutral
+644,"so honey this uh , this threesome thing umm , i mean how - how are you gonna start to find",neutral
+645,"ooh , actually i ' ve been making a list of all the women i know who might be into doing this !",joy
+646,"oh . wow ! huh . boy ! well , someone ' s been doing their homework .",surprise
+647,"yeah . ooh , and i know gail rosten is in there twice , but she is so",neutral
+648,"oh , i know . y ' know , just - just talking about it is getting me kinda",neutral
+649,"oh , me too .",neutral
+650,"and then , we could ' ve gone from the ceremony to the reception with you in the sidecar !",joy
+651,"ross , it just wouldn ' t have been feasible .",neutral
+652,but having a dove place the ring on your finger would ' ve been no problem ?,non-neutral
+653,it was really fun being married to you tonight .,joy
+654,"yeah ! and ! and , it was the easiest 400 bucks i ' ve ever made .",joy
+655,"okay ross , can i uh , can i ask you something ?",non-neutral
+656,yeah .,neutral
+657,"that proposal , at the planetarium",neutral
+658,"i know , i know it was stupid .",sadness
+659,are you kidding !,surprise
+660,"with the , with the lilies , and - and the song , and the stars !",joy
+661,it wasreally wonderful !,joy
+662,did you just make that up ?,surprise
+663,"no , actually i thought about it when , when we were going out .",neutral
+664,"it ' s how i imagined i uh , i would ask you to marry me .",neutral
+665,"well , that would ' ve been very hard to say no too .",neutral
+666,"it ' s a good thing i didn ' t do it , because it sounds like it would ' ve been a very expensive wedding . okay , good night",neutral
+667,goodnight,neutral
+668,even if the sidecar had a windscreen so your hair wouldn ' t get messed up ?,neutral
+669,i will think about it .,neutral
+670,that ' s all i ' m askin ',neutral
+671,"you guys ! it was bananas , cream , and beef ! i - i just cannot believe that you ate that so that i wouldn ' t feel bad !",surprise
+672,"well actually , i - i didn ' t eat mine . it ' s still in the bathroom .",non-neutral
+673,"no it isn ' t , i ate that .",neutral
+674,well we left ours in monica ' s bedroom .,neutral
+675,"nope , got it and i got yours too .",neutral
+676,"okay , so we went to the beach , because phoebe found out about this lady who knew her mom and dad , and i don ' t really know what happened with that .",neutral
+677,and that ' s i ' m so glad there ' s no problem .,joy
+678,"that ' s fine , actually i ' m on the hiring committee , so there ' ll be at least one friendly face .",neutral
+679,ohh ! that ' s great !,joy
+680,"you know , junior miss is where i started . oh , i had to sleep with the",neutral
+681,really !,surprise
+682,no - ho - ho !,non-neutral
+683,yeah .,neutral
+684,"i mean , no - no - no - no - no , don ' t you worry , i ' m sure with your qualifications you won ' t need to sleep with some guy to get that job .",neutral
+685,"although , i might need some convincing .",neutral
+686,"well , i , umm",non-neutral
+687,"kidding ! god , i feel wild today !",joy
+688,oh my god ! chandler just left though !,surprise
+689,"yeah but , maybe it ' s not what we think . maybe it ' s tell monica i ' m sorry idrank the last of the milk .",neutral
+690,"or maybe he - he was writing to tell her that - that he ' s changed his name , y ' know ? tell monica i ' m sorry .",neutral
+691,i think it means he freaked out and left !,surprise
+692,don ' t be so negative ! good god ! isn ' t it possible that sorry is sitting in there right now !,non-neutral
+693,"okay . phoebe , i - i think ross is right . what are we gonna do ?",non-neutral
+694,"lookokay , i ' m just gonnai ' m gonna have to go find him and bring him back !",neutral
+695,okay ?,neutral
+696,"you - you make sure monica does not find out , okay ?",neutral
+697,okay .,neutral
+698,okay,neutral
+699,"i will , i will find him .",neutral
+700,hey !,joy
+701,hi ! hey !,joy
+702,do you guys know any cute guys ?,neutral
+703,"well , of course i do ! my good friend joey over here .",joy
+704,"oh , i ' m sorry . thank you chandler .",non-neutral
+705,"anyway , there ' s this big charity ball this weekend and ralph lauren bought a table , so i kinda have to go",neutral
+706,what ' s the charity ?,neutral
+707,"i don ' t know , something either trees or diseaseralph mumbles a lot .",neutral
+708,does ralph mumble when you ' re not paying attention ?,neutral
+709,yeah ! it ' s weird . but the thing is need to find a date .,surprise
+710,"well , what kind of guy are you looking for ?",neutral
+711,hey !,joy
+712,what are you guys doing later ?,neutral
+713,"oh , rachel and i have appointments to get our hair cut .",neutral
+714,we do ?,surprise
+715,i want to see what he wants first .,neutral
+716,okay .,neutral
+717,i just found out that elizabeth ' s dad wants to meet me .,non-neutral
+718,"wait a minute , hold the phone ! you ' re not elizabeth ' s dad !",surprise
+719,"come on guys , i - i really want this guy to like me .",fear
+720,it - it would really help me out if you guys were here to make me look good .,non-neutral
+721,of course we ' ll help ! yeah ! we ' ll be here !,joy
+722,thanks !,joy
+723,we know how tough those parent / teacher conferences can be .,neutral
+724,"oh , hi ! how are you doing ?",joy
+725,i ' m okay . i gotta go down to the police station and look at mug shots .,sadness
+726,oh .,neutral
+727,"thanks for having me over , you guys .",neutral
+728,tag ?,neutral
+729,y - you ' re going ?,non-neutral
+730,"uh we didn ' t , uh we didn ' t get the chance to talk .",neutral
+731,"uh , so , where did you say you ' re from again ?",neutral
+732,colorado .,neutral
+733,"ah , what good are you .",neutral
+734,"look , um , i think we should talk about what happened on the terrace .",neutral
+735,okay .,neutral
+736,"ah , i - i never should have said what i said .",sadness
+737,ity ' know what ?,neutral
+738,it just doesn ' t matter how i feel .,sadness
+739,"i mean we work together , so nothing could really ever happen between us , and what i would love is just to go to work on monday , and - and never talk about this again , okay ?",sadness
+740,"um , i ' m not .",neutral
+741,"oh , god , i knew it , that i freaked you out .",sadness
+742,"no , you didn ' t . the only thing that freaked me out was you saying that nothing could ever happen between us .",sadness
+743,really ?,surprise
+744,"yeah , so , please don ' t fire me for doing this .",non-neutral
+745,"okay , well , that ' s one less thing we have to do on monday .",neutral
+746,"get him ! get him ! get him ! get - yes ! not laughing now , are ya pal !",non-neutral
+747,"see buddy , that ' s all you need , a bunch of toothless guys hitting each other with sticks .",neutral
+748,pass it ! pass it !,joy
+749,he ' s open !,joy
+750,shoot ! shoot ! shoot !,joy
+751,"hey , look , we ' re on that tv thing !",surprise
+752,i am so psyched i kept this chair for myself !,joy
+753,"yeah , me too .",neutral
+754,"hey , how ' show ' s the uh , miracle chair ?",neutral
+755,fine .,neutral
+756,"yeah ? wow ! y ' know , that this thing has speakers in the headrest !",surprise
+757,no . really ?,surprise
+758,yeah ! you can hook it up to your tv,non-neutral
+759,my chair heals itself .,neutral
+760,"tiger ! dragon ! iceberg ! joseph , did you even study at all last night ?",anger
+761,"yes ! yes , i did .",non-neutral
+762,then do iceberg !,non-neutral
+763,g - sharp .,neutral
+764,g,neutral
+765,what ! i didn ' t touch a guitar !,surprise
+766,"no , but you ' re questioning my method !",anger
+767,"no , i ' m not questioning it , i ' m saying it ' s stupid ! what !",anger
+768,thank you .,neutral
+769,y ' know none of my other student thought i was stupid .,non-neutral
+770,"your other student , was you !",anger
+771,"yeah , well , y ' know maybe you just need to try a little harder !",anger
+772,"look , maybe i need to try a real teacher !",anger
+773,right here !,non-neutral
+774,here !,anger
+775,"andy cooper , he teaches guitar and look ooh , there ' s a nice picture of him with a little kid and",neutral
+776,fine ! you go learn from your qualified instructor ! but don ' t come crying to me when everyone ' s sick and tired of hearing you play,anger
+777, baddest man in the whole damn town . ,neutral
+778,"oh , fine ! take his side !",anger
+779,"and shame on you ! you should know better , joey needs to work . now come on !",anger
+780,hey !,anger
+781,no ! ah - ah - ah - ah - ah ! you can have this back when the five pages are done ! ahh !,non-neutral
+782,hi !,joy
+783,hi .,neutral
+784,"hi . umm , i think there ' s something that we really need to talk about .",non-neutral
+785,"i think we do . why don ' t we go inside ? look uh , i know why you ' re here .",sadness
+786,you do ?,surprise
+787,"yeah , and to save you from any embarrassment umm , i think maybe i should talk first .",neutral
+788,okay .,neutral
+789,"okay . uh , ross and rachel . rachel and ross . that ' s been one heck of a see - saw hasn ' t it ?",neutral
+790,what ?,surprise
+791,"i mean look , that - that one night we had was fun andand certainly passionate , but don ' t you think it ' s better if we just stayed friends ?",non-neutral
+792,seriously . what !,surprise
+793,okay .,neutral
+794,okay .,neutral
+795,y ' know what ?,neutral
+796,"if you want to , we can do it one more time .",neutral
+797,i mean i ' d - i ' d be okay with that .,neutral
+798,"in fact , i have some time right now .",neutral
+799,"okay , y ' know what ? can i , can i talk now ?",non-neutral
+800,oh sure .,neutral
+801,"i ' m pregnant . ross ? ross ? okay , whenever you ' re ready . and you ' re the father by the waybut you got that",anger
+802,we should defiantly play football more often . maybe there ' s a like league we could join or something .,neutral
+803,i know !,joy
+804,"yes ! wow , well , that - that was easy . okay , you - you go .",surprise
+805,okay .,neutral
+806,okay .,neutral
+807,"okay , you know , you know when your in bed , with a woman .",joy
+808,hmph .,neutral
+809,"and , ah , you know , your fooling around with her .",joy
+810,"and you get all these like , mental images in your brain , you know , like elle macpherson , or that girl at the xerox place .",joy
+811,"with the belly - button ring ? oh , muhawa !",joy
+812,"i know , and then all of the sudden your mom pops into your head .",non-neutral
+813,"and your like ' mom , get outta here ! '",anger
+814,"you know , but of course , like , after that you can ' t possibly think of anything else , and you can ' t , you know , stop what your doing .",non-neutral
+815,"so it ' s kinda like , you ' re , you know .",neutral
+816,you know . you don ' t know !,surprise
+817,"your mom , your telling me , your telling me , about your mom , what is the matter with you ?",disgust
+818,you said .,neutral
+819,i said ',neutral
+820,oh !,surprise
+821,look at emma !,surprise
+822,"i just can ' t decide who she looks more alike , you or rachel ?",neutral
+823,"oh what are you kidding ? she ' s gorgeous , it ' s all rachel .",non-neutral
+824,"i ' m sorry , for the last time , why aren ' t you two together again ?",neutral
+825,"no , i know .",neutral
+826,"i know , because you ' re not in that place .",neutral
+827,"which would be fine , except you totally are .",neutral
+828,it ' sit ' s complicated okay ?,sadness
+829,"yeah that ' s true . yeah , you love her . you always have . you have a child together . there is no right answer .",neutral
+830,"look , we ' ve been together .",sadness
+831,okay ?,neutral
+832,"and then apart , and then together , and then apart , and now we have a baby .",sadness
+833,it ' s just if - if we got together again and it didn ' t work outi could never do that to emma .,sadness
+834,i mean she - she thinking everything oh that ' snow me .,sadness
+835,what do they put something in the water in this place ?,neutral
+836,"since rachel and i we ' re doing really , we ' re doing really well right now .",non-neutral
+837,"i know . i know . i know . i know , and if you try to make it more you might wreck it .",neutral
+838,"yeah , exactly .",neutral
+839,right . or you might get everything you ' ve wanted since you were fifteen .,neutral
+840,god . i forgot how much i love driving . i have,joy
+841,you don ' t have a,neutral
+842,"oh ross you ' re so tense ! you just gotta relax , okay ? just need to relax all right ? just need to relax",neutral
+843,what - what are you doing ! are youokay that ' s not funny ! just stop horsing around !,non-neutral
+844,"i am not horsing around , okay ? i am porsching around .",joy
+845,uh - oh .,fear
+846,"okay , stay calm . nothing is going to happen to you , you are not in that much trouble .",neutral
+847,really ? you think so ?,fear
+848,i was talking to myself ! you ' re going down !,non-neutral
+849,hey honey ! i missed you today !,joy
+850,"oh , yeah ?",surprise
+851,yeah . what d ' you wanna do tonight ?,neutral
+852,"oh , well . maybe we could .",neutral
+853,"ok , trying to turn me on by making a mess ?",non-neutral
+854,know your audience !,non-neutral
+855,"besides , tomorrow we ' re doing those fertility tests and until then you need to keep your tadpoles in the tank .",neutral
+856,we really need to take those tests ?,non-neutral
+857,"honey , we ' ve been trying to have a baby for over a year .",neutral
+858,i think it ' s a good idea to find out if everything ' s ok . just a few routine tests .,neutral
+859,but i don ' t wanna do it in a cup !,non-neutral
+860,"oh , hi max ! hey , do you know everybody ?",neutral
+861,no . have you seen david ?,neutral
+862,"no , no , he hasn ' t been around .",neutral
+863,"well , if you see him , tell him to pack his bags . we are going to minsk .",neutral
+864,minsk ?,surprise
+865,minsk . it ' s in russia .,neutral
+866,i know where minsk is .,neutral
+867,"we got the grant . three years , all expenses paid .",joy
+868,"so when , when do you leave ?",neutral
+869,january first .,neutral
+870,you wanted to see me professor geller ?,non-neutral
+871,"yes . yes ! please , come in .",neutral
+872,oo - oo !,non-neutral
+873,pretty great ! except i did get a little attitude from the robot .,joy
+874,"damn those robots , they ' re supposed to be our",non-neutral
+875,"anyway , it wasn ' t the robot , it was the guy who controls him .",neutral
+876,"yeah , he doesn ' t like me .",non-neutral
+877,he had c . h . e . e . s . e .,neutral
+878,knock over the sandwich right when i was reaching for one !,non-neutral
+879,ohh !,surprise
+880,"well , why don ' t you just get him fired ?",non-neutral
+881,"i may have to , i hate to do it , but i ' m the star !",non-neutral
+882,y ' know ?,neutral
+883,there ' s a limit to how many sandwiches i can eat off the floor .,neutral
+884,excuse me .,neutral
+885,joey tribbiani .,neutral
+886,"joe ! i ' m glad i found ya , i got an audition for ya !",non-neutral
+887,wow !,surprise
+888,the thing is it ' s kinda on the q . t .,neutral
+889,the actor who has the part doesn ' t know he might be fired .,neutral
+890,"it ' s the lead in a series , mac and c . h . e . e . s . e .",neutral
+891,i ' m the lead in mac and c . h . e . e . s . e !,non-neutral
+892,uh - oh !,surprise
+893,oh good god ! if you want a baby so bad just go steal it !,non-neutral
+894,what is going on with you ? since when are you so crazy about babies ?,surprise
+895,i ' m not crazy about babies . i ' m crazy about us .,non-neutral
+896,what ?,surprise
+897,"look , we ' ve always talked about having babies someday .",neutral
+898,"i ' m not saying it has to be right now , but i ' m starting to think that we can handle it .",neutral
+899,we ' re good .,neutral
+900,we ' re really good .,joy
+901,"oh , did you catch him !",surprise
+902,uh - huh .,neutral
+903,wh - what did he say !,surprise
+904,"he said , "" nice to meet you glenda . "" well , obviously i couldn ' t give him my real name ?",neutral
+905,why ! why not !,surprise
+906,"come on , you saw the way he ran out of here !",non-neutral
+907,what do you think ?,neutral
+908,he ' s gonna stick around and talk to the daughter he abandoned !,non-neutral
+909,what did you say to him ?,neutral
+910,"well , i said , i told him y ' know , that i was the executor person of francis ' will and that i needed to talk to him so i ' m gonna meet him at the coffee house later .",neutral
+911,"oh yeah , sure .",neutral
+912,"okay , in about ten seconds you ' re gonna see him kiss me .",joy
+913,and in about five seconds you ' re gonna see why .,neutral
+914,ross did i ever tell you about the time that i went backpacking through western europe ?,neutral
+915,"okay , get ready to see some beggin ' !",non-neutral
+916,"oh , you came on to ross !",surprise
+917,what !,surprise
+918,now i ' m so happy .,joy
+919,what are you talking about !,surprise
+920,you used the europe story !,non-neutral
+921,that ' s the magic story you use when you wanna have sex !,non-neutral
+922,how do you know about that story !,surprise
+923,how do,neutral
+924,i heard it from my friend irene who heard it from some guy !,neutral
+925,some guy !,surprise
+926,"no . no , she told me his name was ken adams .",neutral
+927,ken adams !,surprise
+928,"how we doing , you guys ready ?",neutral
+929,mom already called this morning to remind me not to wear my hair up . did you know my ears are not my best feature ?,neutral
+930,some days it ' s all i can think about .,neutral
+931,"hi , sorry i ' m late , i couldn ' t find my bearings .",neutral
+932,"oh . ok , fine .",neutral
+933,but . ehm .,neutral
+934,"i just have one question for you , ehm .",neutral
+935,"when we exit should we walk , or run , or prance , or stroll .",neutral
+936,"stop it , stop it ! he talks slow but he might pee fast ! ok , let ' s go !",non-neutral
+937,i can ' t believe this ! how long as this been going on ?,surprise
+938,"well umm , alexandra has been",neutral
+939,"oh , it has a name ?",surprise
+940,"phoebe , don ' t get upset !",non-neutral
+941,okayoop ! too late ! i ' m leaving ! come on chandler let ' s go !,anger
+942,"well , phoebe i thought i ' dyeah , what the hell .",neutral
+943,ben !,non-neutral
+944,"oh , that ' s good . maybe he ' ll hear you and pull the cord .",non-neutral
+945,stop the bus ! wait ! wait ! wait !,fear
+946,are you sure he didn ' t break it because it really hurts ?,neutral
+947,"no , it ' s just a good bone bruise . and , right here is the puncture wound from your ring .",neutral
+948,"oh , i ' m sorry , i ' m really sorry .",sadness
+949,sorry .,sadness
+950,sorry !,non-neutral
+951,hey !,non-neutral
+952,hey !,non-neutral
+953,i got my s ' s back !,non-neutral
+954,which we can celebrate later .,neutral
+955,celebrate .,neutral
+956,"ok , paulo , why don ' t you just go get dressed , and then you be on your way , ok , bye - bye .",non-neutral
+957,"rachel , how did this happen ?",non-neutral
+958,"i don ' t know , i just kinda ran into him last night .",non-neutral
+959,where ?,neutral
+960,at his apartment . is this juice ?,neutral
+961,"whoa , whoa . and the fact that you dumped him because he hit on phoebe ?",non-neutral
+962,"oh god , i know i ' m a pathetic loser .",non-neutral
+963,"i licked my arm , what ?",surprise
+964,it ' s breast milk .,neutral
+965,so ?,neutral
+966,"phoebe , that is juice , squeezed from a person .",neutral
+967,what is the big deal ?,non-neutral
+968,what did you just do ?,surprise
+969,"ok , would people stop drinking the breast milk ?",disgust
+970,you won ' t even taste it ?,neutral
+971,no !,disgust
+972,not even if you just pretend that it ' s milk ?,neutral
+973,not even if carol ' s breast had a picture of a missing child on it .,disgust
+974,aww !,surprise
+975,that ' s funny .,joy
+976,"hey pheebs , could you please not put your feet up on my newold sheet ?",disgust
+977,oh sure ! noo !,non-neutral
+978,ohh !,surprise
+979,my apothecary table !,surprise
+980,what !,surprise
+981,no !,non-neutral
+982,"ross , where did you get this !",surprise
+983,i got it at,neutral
+984,"oh my god , phoebe ,",non-neutral
+985,"wow ! oh my god , well if they ' ve ripped off our table ours must be much more than one and fifty dollars !",non-neutral
+986,oh yes .,neutral
+987,well this doesn ' t even smell like opium .,disgust
+988,"of course not , it smells like wine , which you spilled ! and thanks for wrecking my sheet by the way .",anger
+989,"oh ross , calm down , i ' ll give you the 80 cents .",non-neutral
+990,how is she ?,non-neutral
+991,"it ' s too soon to tell . she ' s resting , which is a good sign .",neutral
+992,how ' s the hair ?,neutral
+993,"i ' m not gonna lie to you , ross , it doesn ' t look good .",sadness
+994,"i put a clip on one side , which seems to have stopped the curling .",neutral
+995,can we see her ?,neutral
+996,"your hair looks too good , i think it would upset her . ross , why don ' t you come on in .",sadness
+997,yeah .,non-neutral
+998,how ' re you doing ?,non-neutral
+999,of course the packaging does appeal to grown - ups and kids alike .,neutral
+1000,"ross , you ' re being silly . i ' ve tried it , it ' s no big deal . just taste it .",non-neutral
+1001,that would be no .,disgust
+1002,come on . it doesn ' t taste bad .,neutral
+1003,"yeah , it ' s kinda sweet , sorta like , uh .",non-neutral
+1004,cantaloupe juice .,non-neutral
+1005,exactly .,non-neutral
+1006,you ' ve tasted it ? you ' ve tasted it .,surprise
+1007,uh huh .,neutral
+1008,"oh , you ' ve tasted it .",non-neutral
+1009,"you can keep saying it , but it won ' t stop being true .",neutral
+1010,gimme the bottle . gimme the towel .,non-neutral
+1011,i still don ' t get why greg and jenny would give us a fake number .,non-neutral
+1012,"y ' know , if they knew what they were doing they probably didn ' t give you real names either .",neutral
+1013,"okay , maybe people give out fake numbers , but they don ' t give out fake names .",non-neutral
+1014,"oh yeah ? hi , ken adams , nice to meet you .",neutral
+1015,regina philange .,neutral
+1016,"i still don ' t get it , we didn ' t do anything wrong .",surprise
+1017,"i know ! although , you did tell an awful lot of jokes .",non-neutral
+1018,i thought you said those jokes were funny . joke ! joke ! joke !,surprise
+1019,joke . joke . blah ! blah !,non-neutral
+1020,well maybe it was all of your questions .,non-neutral
+1021,what about my questions ?,non-neutral
+1022,"no , i ' m sorry . it ' s just my foot itches like crazy .",neutral
+1023,"oh , i ' ll get it .",neutral
+1024,wow ! i usually get to know a girl a little better before i let her spoon me .,surprise
+1025,"relax , it ' s not like we ' re forking .",non-neutral
+1026,"look at it ! oh ! wallpaper ' s a little faded , that ' s okay . carpet ' s a little loose . hardwood floors !",joy
+1027,hey !,non-neutral
+1028,hello .,neutral
+1029,oh ! ooh ! oh monica ! it ' s so beautiful .,joy
+1030,i know !,joy
+1031,"so , i ' m here , ready to play .",joy
+1032,okay .,neutral
+1033,"i brought a bunch of stuff for the house , so check it out . ha - ha .",joy
+1034,what ' s this ?,surprise
+1035,"that ' s a dog , every house should have a dog .",joy
+1036,not one that can pee on the roof .,surprise
+1037,"well , maybe it ' s so big because the house was built on radioactive waste .",non-neutral
+1038,and is this in case the house sneezes ?,surprise
+1039,"no , no , that ' s the ghost for the attic .",neutral
+1040,i don ' t want a ghost .,fear
+1041,"well , nobody wants a ghost . but you ' ve got one , because the house is sitting on an ancient indian burial ground .",neutral
+1042,"wait a minute , the house was built on radioactive waste , and an ancient indian burial ground ? that would never happen .",surprise
+1043,"okay , obviously you don ' t know much about the u . s . government .",neutral
+1044,hey !,surprise
+1045,hello .,neutral
+1046,i need to talk to you !,non-neutral
+1047,"sure , what ' s up ?",neutral
+1048,"all right , i just got changed in thirty seconds so you can be alone with him . you ' d better go for it .",non-neutral
+1049,"please , i ' m not going for anything .",disgust
+1050,"well , if you don ' t , i will .",non-neutral
+1051,would you please go ?,non-neutral
+1052,i would !,non-neutral
+1053,"hey , guys , guys , did you see my new , china cabinet !",joy
+1054,uh - huh .,neutral
+1055,"watch , watch .",non-neutral
+1056,oh !,surprise
+1057,"and , and !",non-neutral
+1058,ah !,surprise
+1059,"hey , my father ' s house does that !",surprise
+1060,"o - o - o - okay , how did it go ? tell me everything .",neutral
+1061,"well , the movie was great , dinner was great , and there ' s nothing like a cool , crisp new york evening .",neutral
+1062,hmm .,neutral
+1063,"of course , i didn ' t get to enjoy any of that , because joanna ' s such a",disgust
+1064,okay . it ' s emma .,neutral
+1065,emma ! see ? i don ' t want it .,non-neutral
+1066,take it .,neutral
+1067,what ?,neutral
+1068,it ' s clearly an emma .,neutral
+1069,"oh honey , but you love that name .",non-neutral
+1070,"yeah , but i love you more .",joy
+1071,"besides y ' know , nothing goes with bing .",neutral
+1072,so i ' m screwed .,non-neutral
+1073,"i mean oh , hi emma .",neutral
+1074,"yeah , that ' s you .",neutral
+1075,you ' re our little em .,joy
+1076,oh what ' s that honey ?,surprise
+1077,what ?,surprise
+1078,"oh , you want a little cousin ?",surprise
+1079,you want a cousin right now ?,non-neutral
+1080,!,non-neutral
+1081,"oh - oh , i ' m a duck ! i go , "" quack , quack ! "" i ' m happy all the time !",joy
+1082,nice try .,non-neutral
+1083,"wait , wait , wait !",non-neutral
+1084,"look , monica",neutral
+1085,look !,surprise
+1086,this is not going to work .,non-neutral
+1087,i bet this will work !,joy
+1088,you are so great ! i love you !,joy
+1089,what ?,surprise
+1090,"nothing ! i said , i said "" you ' re so great "" and then i just , i just stopped talking !",non-neutral
+1091,you said you loved me ! i can ' t believe this !,surprise
+1092,no i didn ' t !,non-neutral
+1093,"yes , you did !",non-neutral
+1094,no i didn ' t !,non-neutral
+1095,you love me !,joy
+1096,no i don ' t ! stop it ! stop it ! stop it ! stop it !,anger
+1097,hello greg ?,neutral
+1098,"hi , this is monica from the plane ?",neutral
+1099,"listen , the number that you gave me 853 - 5 that is their old number !",anger
+1100,jenny ' s been giving it out since they moved !,anger
+1101,jenny ! that is so jenny !,non-neutral
+1102,"hey listen umm , how would you like to get together ?",neutral
+1103,say next saturday ?,neutral
+1104,"okay , how about sunday ?",neutral
+1105,"okay umm , the week after that ?",non-neutral
+1106,the week after that ?,non-neutral
+1107,y ' know what greg ?,anger
+1108,y ' know what ?,anger
+1109,"we are good , interesting , funny people with",non-neutral
+1110,hey chandler ! y ' know that girl you went to college with who - who became a movie director ?,neutral
+1111,"oh yeah , dana keystone . she was in my movement class .",neutral
+1112,what ' s a movement class ?,neutral
+1113,it ' s chandler ' s way of pretending he didn ' t take mime .,neutral
+1114,"oh well listen , anyway she ' s directing the new al pacino movie . you gotta get me an audition !",joy
+1115,"oh , i don ' t know man . i haven ' t talked to her in like ten years .",neutral
+1116,i am .,neutral
+1117,"joey , what are you talking about ? you ' re a terrific actor .",neutral
+1118,you really think so ?,surprise
+1119,"ugh , how can you even ask that question !",surprise
+1120,ross ! get a shot of this . ( he ' s carrying an issue of the,surprise
+1121,"oh , okay , i ' m having another one !",non-neutral
+1122,"this one doesn ' t hurt eitherooh , yes it does !",surprise
+1123,ow !,non-neutral
+1124,ow !,non-neutral
+1125,ow !,non-neutral
+1126,ow !,non-neutral
+1127,ooh !,surprise
+1128,"oh , i was kinda hoping that was it .",non-neutral
+1129,"hey , where are monica and rachel anyway ?",neutral
+1130,"all right . hey , but it better make me look really , really good . oh , and another thing , the video camera ? nice !",non-neutral
+1131,"yeah , i love you . okay , bye ! hi !",joy
+1132,hi !,joy
+1133,"that was alice ' s mom , she said she left five hours ago . she should be here by now !",fear
+1134,"oh , honey , don ' t worry . she ' s gonna make it on time .",neutral
+1135,yeah .,neutral
+1136,i guess i set up the video camera to try and entice joey .,neutral
+1137,but sadly i could not be enticed .,non-neutral
+1138,unbelievable ! i mean you really kept joey ' s underwear ! why ? why would you do that !,disgust
+1139,i ' m monica . i ' m disgusting . i stalk guys and keep their underpants .,non-neutral
+1140,"well , i think we ' ve all learned something about who ' s disgusting and who ' s not .",non-neutral
+1141,eh ?,neutral
+1142,"all right , now , i ' m going to get back to my bucket .",neutral
+1143,"i ' m only eating the skin , so the chicken ' s up for grabs .",neutral
+1144,"i couldn ' t find anything at joey - - hey - hey , oh hey !",non-neutral
+1145,"ohh , okay , they gave you the old time pricing .",neutral
+1146,yeah .,neutral
+1147,"well , what period is it from ?",neutral
+1148,"uh , it ' s from yore . like the days of yore . y ' know ?",neutral
+1149,"yes , yes i do .",neutral
+1150,"god , oh it ' s just perfect !",joy
+1151,wow !,joy
+1152,i bet it has a great story behind it too .,joy
+1153,did they tell you anything ?,neutral
+1154,like y ' know where it was from or,neutral
+1155,"yes ! that i know , this is from white plains .",joy
+1156,"white plains . oh , it sounds like such a magical place .",joy
+1157,"so , you still don ' t think i ' m boyfriend material ?",non-neutral
+1158,huh ?,neutral
+1159,i saw you checking me out during the game last night .,neutral
+1160,"i , umm , shut up !",anger
+1161,good - bye phoebe and ursula . i ' ll miss you . p . s . your mom lives in montauk . you just wrote this !,non-neutral
+1162,"well , it ' s pretty much the gist . well , except for the poem . you read the poem , right ?",neutral
+1163,no !,non-neutral
+1164,"all right , hang on !",neutral
+1165,"rachel , it ' s going to happen . chandler is gonna move in here .",neutral
+1166,but i,non-neutral
+1167,"no - no , wait !",neutral
+1168,"just let me finish , okay ?",non-neutral
+1169,"this isn ' t something that we just , we just impulsively decided in - in vegas , this is something we both really want .",neutral
+1170,and it,neutral
+1171,it is ? really ?,surprise
+1172,"yeah , sweetie .",neutral
+1173,"i mean we ' re not , we ' re not gonna live together anymore ?",sadness
+1174,no .,sadness
+1175,what ? oh my god ! i ' m gonna miss you so much !,sadness
+1176,i ' m gonna miss you !,sadness
+1177,i mean it ' s the end of an era !,sadness
+1178,i know !,sadness
