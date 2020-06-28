@@ -69,9 +69,13 @@ NLP Term Project Repository (2020, Korea University, 11조)
 
 ## - 참고자료
 - 참고한 코드
-  - https://github.com/yashsharan/Multi-Class-sentiment-analysis
-  - https://github.com/lkluo/emotionX-2018/tree/master/dataset
-  - https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP
+  - NSMC
+    - https://wikidocs.net/44249
+    - https://bab2min.tistory.com/544 
+  - Friends
+    - https://github.com/yashsharan/Multi-Class-sentiment-analysis
+    - https://github.com/lkluo/emotionX-2018/tree/master/dataset
+    - https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP
   
 - 참고 논문
   - https://www.aclweb.org/anthology/L18-1252.pdf
