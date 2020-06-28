@@ -24,14 +24,14 @@ NLP Term Project Repository (2020, Korea University, 11조)
     - Preprocess : 전처리하는 코드와 원래 데이터가 포함된 디렉토리
         - data/preprocess_data : 전처리 결과
         - data/Friends : 전처리 이전
-    - model_save : 학습된 모델이 저장되는 디렉토리, BERT의 모델이 여기에 저장되며 LSTM은 Friends에 저장된다.
+    - model_save : 학습된 모델이 저장되는 디렉토리, BERT의 모델이 여기에 저장되며 LSTM은 Friends에 저장됩니다.
 
 ## - How to execute
 - Before execution
   - NSMC
     - Nope
   - Friends
-    - Preprocessing (Output 파일 이미 존재 - /preprocess/data/preprocess_data/*), 로컬 환경에서 디렉토리에 들어가 실행해야 함.
+    - Preprocessing (Output 파일 이미 존재 - /preprocess/data/preprocess_data/*), 로컬 환경에서 디렉토리에 들어가 실행해야 합니다.
     <pre>
     python data_preprocess.py
     </pre>
@@ -39,7 +39,7 @@ NLP Term Project Repository (2020, Korea University, 11조)
     - en_data Preprocessing (수작업, 이미 논문에 언급한대로 전처리 완료 - /data/en_data.csv)
 
 - Execution
-  1. Google Drive root에 NLP_Term 디렉토리 생성 후 각각의 폴더 /NLP_Term/ 에 업로드 (경로수정 필요할 시 ipynb의 디렉토리 경로 수정, 하단에 표시.)
+  1. Google Drive root에 NLP_Term 디렉토리 생성 후 각각의 폴더 /NLP_Term/ 에 업로드합니다. (경로수정 필요할 시 ipynb의 디렉토리 경로 수정, 하단에 표시.)
   <pre>
     drive.mount('/content/gdrive/')
     ...
@@ -60,7 +60,12 @@ NLP Term Project Repository (2020, Korea University, 11조)
     os.chdir('/content/gdrive/My Drive/NLP_Term/Friends')
   </pre>
   2. NLP_Term.ipynb 구글 드라이브에 업로드 이후 Colab으로 열기
-  3. 맨 위부터 순서대로 실행
+  3. ipynb 코드 맨 위부터 순서대로 실행
+  <pre>
+    1. 런타임 -> 런타임 유형 변경 'GPU' 설정 필요합니다.
+    2. Google Drive Mount이전에 Data를 전부 업로드해야 합니다.
+    3. 중간부터 실행이 불가능하므로 Mount Drive부분은 먼저 꼭 실행해줘야 합니다.
+  </pre>
 
 ## - 참고자료
 - 참고한 코드
@@ -70,3 +75,7 @@ NLP Term Project Repository (2020, Korea University, 11조)
   
 - 참고 논문
   - https://www.aclweb.org/anthology/L18-1252.pdf
+
+- 데이터 업로드/Colab URL
+  - Google Colab : https://colab.research.google.com/drive/1AWK3ETqwIJkL7hQH58SIHelvRETEBJmD#scrollTo=IQ2rrkIVEnIx
+  - Google Drive : https://drive.google.com/drive/folders/11TCXaC0lKjXzGJYhmNu6ZobyzZT8-qD7
