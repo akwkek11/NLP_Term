@@ -1,5 +1,6 @@
-NLP Term Project Repository (2020, Korea University, 11조)
+NLP Term Project Repository (Korea University, 11조)
 ======================
+## Github Link : https://github.com/akwkek11/NLP_Term
 
 ## - 팀원
 - 주어진
