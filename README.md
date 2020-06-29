@@ -12,14 +12,18 @@ NLP Term Project Repository (2020, Korea University, 11조)
 	Data : Google Drive
 ### Friends
 	Code : Google Colab
-	Data : Google Drive
+	Data : Google Drive ( Preprocessing : Local, Python 3.7 )
   
 ## - 디렉토리 구조
 ### NSMC
+    - root : /NLP_Term/NSMC/
+
     - Data : 학습 데이터, 테스트 데이터가 있는 디렉토리
     - Models : 학습된 모델이 저장되는 디렉토리
     - result : 학습된 모델이 예측한 결과를 저장하는 디렉토리
 ### Friends
+    - root : /NLP_Term/Friends/
+
     - Data : 학습 데이터, 테스트 데이터가 있는 디렉토리
     - Preprocess : 전처리하는 코드와 원래 데이터가 포함된 디렉토리
         - data/preprocess_data : 전처리 결과
@@ -31,7 +35,7 @@ NLP Term Project Repository (2020, Korea University, 11조)
   - NSMC
     - Nope
   - Friends
-    - Preprocessing (Output 파일 이미 존재 - /preprocess/data/preprocess_data/*), 로컬 환경에서 디렉토리에 들어가 실행해야 합니다.
+    - Preprocessing (Output 파일 이미 존재 - /preprocess/data/preprocess_data/*), 만약 실행이 필요할 시, 로컬 환경에서 디렉토리에 접근하여 실행해야 합니다.
     <pre>
     python data_preprocess.py
     </pre>
@@ -39,7 +43,7 @@ NLP Term Project Repository (2020, Korea University, 11조)
     - en_data Preprocessing (수작업, 이미 논문에 언급한대로 전처리 완료 - /data/en_data.csv)
 
 - Execution
-  1. Google Drive root에 NLP_Term 디렉토리 생성 후 각각의 폴더 /NLP_Term/ 에 업로드합니다. (경로수정 필요할 시 ipynb의 디렉토리 경로 수정, 하단에 표시.)
+  1. Google Drive root에 NLP_Term 디렉토리 생성 후 각각의 폴더를 /NLP_Term/ 에 업로드합니다. (경로수정 필요할 시 ipynb의 디렉토리 경로 수정, 하단에 표시.)
   <pre>
     drive.mount('/content/gdrive/')
     ...
@@ -68,7 +72,7 @@ NLP Term Project Repository (2020, Korea University, 11조)
   </pre>
 
 ## - 참고자료
-- 참고한 코드
+- 참고한 자료/코드
   - NSMC
     - https://wikidocs.net/44249
     - https://bab2min.tistory.com/544 
